@@ -2,7 +2,6 @@
     <string name="app_name">Registro Congreso</string>
     <string name="title_congreso">Congreso Internacional de Tecnología e Innovación</string>
     <string name="subtitulo_congreso">Gestión y Acreditación de Asistentes</string>
-    <string name="estado_fase_1">Fase 1: Configuración Base OK</string>
 
     <!-- Formulario y Progreso -->
     <string name="nuevo_registro">Nuevo Asistente</string>
@@ -18,4 +17,22 @@
     <string name="label_direccion">Dirección (Calle, Av., Nro., Ref.)</string>
     <string name="label_grupo_sanguineo">Grupo Sanguíneo (Emergencias)</string>
     <string name="label_tipo_asistente">Tipo de Asistente</string>
+
+    <!-- Lista y Búsqueda -->
+    <string name="buscar_asistente">Buscar por nombre, apellido o distrito...</string>
+    <string name="total_registrados">Total</string>
+    <string name="profesionales">Profesionales</string>
+    <string name="estudiantes">Estudiantes</string>
+    <string name="publico">Público</string>
+
+    <string name="filtro_todos">Todos</string>
+    <string name="filtro_profesional">Profesional</string>
+    <string name="filtro_estudiante">Estudiante</string>
+    <string name="filtro_publico">Público en general</string>
+
+    <string name="sin_asistentes">No se encontraron asistentes registrados.</string>
+    <string name="confirmar_eliminar_titulo">Confirmar Eliminación</string>
+    <string name="confirmar_eliminar_mensaje">¿Estás seguro de que deseas eliminar a %s de la lista de asistentes? Esta acción no se puede deshacer.</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
 </resources>
