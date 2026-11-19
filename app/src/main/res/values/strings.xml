@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">ProyectoIDNPRegistro</string>
+    <string name="app_name">Registro Congreso</string>
+    <string name="title_congreso">Congreso Internacional de Tecnología e Innovación</string>
+    <string name="subtitulo_congreso">Gestión y Acreditación de Asistentes</string>
+    <string name="estado_fase_1">Fase 1: Configuración Base OK</string>
+
+    <!-- Formulario y Progreso -->
+    <string name="nuevo_registro">Nuevo Asistente</string>
+    <string name="editar_registro">Editar Asistente</string>
+    <string name="guardar">Guardar Asistente</string>
+    <string name="progreso_completado">Progreso del formulario: %d%%</string>
+
+    <string name="label_nombres">Nombres</string>
+    <string name="label_apellidos">Apellidos</string>
+    <string name="label_departamento">Departamento (Sede)</string>
+    <string name="label_provincia">Provincia</string>
+    <string name="label_distrito">Distrito</string>
+    <string name="label_direccion">Dirección (Calle, Av., Nro., Ref.)</string>
+    <string name="label_grupo_sanguineo">Grupo Sanguíneo (Emergencias)</string>
+    <string name="label_tipo_asistente">Tipo de Asistente</string>
 </resources>
